@@ -1,1 +1,72 @@
+# OK
+DOMAIN,link00.okemby.org
+DOMAIN,link01.okemby.org
+DOMAIN-SUFFIX,okemby.org
 
+# Nya
+DOMAIN,emby.bangumi.ca
+DOMAIN,ap-cn01.emby.bangumi.ca
+DOMAIN-SUFFIX,bangumi.ca
+
+# HKA
+DOMAIN,hka-emby.aliz.work
+DOMAIN-SUFFIX,aliz.work
+
+# 结束
+DOMAIN,kessoku-bando.biliblili.uk
+DOMAIN-SUFFIX,biliblili.uk
+
+# Fac Jms
+DOMAIN,matrix.313445.xyz
+DOMAIN-SUFFIX,313445.xyz
+
+# SNTP
+DOMAIN,lite.cn2gias.uk
+DOMAIN,lite-v6.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
+
+# 二次元
+# 主线路
+DOMAIN,media.nijigem.by
+DOMAIN-SUFFIX,nijigem.by
+# 电信专用
+DOMAIN,ct.cdn.bgp.yt
+DOMAIN-SUFFIX,bgp.yt
+# 奶昔赞助
+DOMAIN,default.cdn.bgp.yt
+
+# emos
+DOMAIN,emos.lol
+DOMAIN,empn.mom
+DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,empn.mom
+#播放线路
+DOMAIN,hmian.sharepoint.com
+DOMAIN,my.sharepoint.com
+DOMAIN-SUFFIX,sharepoint.com
+
+# 桃子
+DOMAIN,embymv.link
+DOMAIN-SUFFIX,embymv.link
+IP-CIDR,193.123.232.141/32
+
+# zox
+DOMAIN,entry.zox.show
+DOMAIN,cf.zox.show
+DOMAIN-SUFFIX,zox.show
+
+# 紫罗兰
+DOMAIN,emby.violet.run
+DOMAIN,violet.5203166.xyz
+DOMAIN-SUFFIX,violet.run
+DOMAIN-SUFFIX,5203166.xyz
+IP-CIDR,46.3.109.178/32
+
+# 非越
+DOMAIN,cf.sfcj.org
+DOMAIN,cdn.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
+
+# 起点
+DOMAIN,free.28.al
+DOMAIN-SUFFIX,28.al
