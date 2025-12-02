@@ -1,3 +1,7 @@
+#Sntp lite
+DOMAIN,lite.cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
+
 # OK
 DOMAIN,link00.okemby.org
 DOMAIN,link01.okemby.org
